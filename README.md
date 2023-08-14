@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi! this is me, Maaz Iqbal 👋
 
 <!--
 **maaziqbal0/maaziqbal0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
