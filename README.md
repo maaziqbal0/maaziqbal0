@@ -3,9 +3,6 @@
 <h3 align="center">Dedicated Computer Application Student from India</h3>
 
 
-<img align=”right” alt=”coding” width=”400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maaziqbal0&label=Profile%20views&color=0e75b6&style=flat" alt="maaziqbal0" /> </p>
 
 - 🌱 I’m currently learning **Html,CSS,C-language**
