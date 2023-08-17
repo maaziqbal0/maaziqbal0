@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **maaziqbal9308@gmail.com**
 
-- ⚡ Fun fact **people think they know me😎.hahahaha**
+- ⚡ Fun fact **people think they know me😎hahahaha**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
