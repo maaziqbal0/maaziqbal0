@@ -1,6 +1,6 @@
 ![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 <h1 align="center">Hi ! This is me Maaz Iqbal</h1>
-<h3 align="center">Dedicated Computer Application Student from India</h3>
+<h3 align="center">Cybersecurity Learner | Pentesting Focused</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maaziqbal0&label=Profile%20views&color=0e75b6&style=flat" alt="maaziqbal0" /> </p>
