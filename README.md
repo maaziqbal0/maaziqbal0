@@ -7,7 +7,10 @@
 # Hello, I'm MAAZ IQBAL
 <h3 align="left">Cybersecurity Learner | Pentesting Focused</h3>
 
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/md-maaz-iqbal02/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
 
 I’m a passionate cybersecurity enthusiast with a focus on networking and penetration testing. I thrive on solving complex problems, continuously learning new technologies, and implementing robust security solutions.
 
