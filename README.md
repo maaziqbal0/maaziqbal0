@@ -57,7 +57,21 @@ Eager to join a dynamic Security Operations Center (SOC) as a Tier 1 Analyst, wh
 ---
 
 ## Projects
-- [Detection Lab](https://github.com/clong/DetectionLab)  
-- [SOC Automation Project](https://github.com/yourusername/SOCLab)  
+
 - [IoT-Based Car Parking System](https://github.com/yourusername/IoT-Car-Parking)  
-- [Recon Automation Scripts](https://github.com/yourusername/Recon) 
+- [Recon Automation Scripts](https://github.com/yourusername/Recon)
+
+
+---
+
+## ©️ Copyright & Usage  
+
+<div align="leftr">
+    <img src="https://img.shields.io/badge/-©%202025%20Maaz%20Iqbal%20All%20Rights%20Reserved-0d1117?&style=for-the-badge&logoColor=white" />
+</div>
+
+This GitHub profile and its content are for **personal branding and informational purposes** only.  
+Feel free to explore and connect. However, **reproduction, distribution, or use** of any part of this profile without **proper credit or explicit permission** is strictly prohibited.
+
+---
+
