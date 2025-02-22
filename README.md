@@ -2,64 +2,62 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maaziqbal0&label=Profile%20views&color=0e75b6&style=flat" alt="maaziqbal0" /> </p>
 
+---
+
 # Hello, I'm MAAZ IQBAL
 <h3 align="left">Cybersecurity Learner | Pentesting Focused</h3>
+
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
+I’m a passionate cybersecurity enthusiast with a focus on networking and penetration testing. I thrive on solving complex problems, continuously learning new technologies, and implementing robust security solutions.
 
-Persuing graduation with a profound interest in technology and a dedication to solving complex problems.
+---
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
+Eager to join a dynamic Security Operations Center (SOC) as a Tier 1 Analyst, where I can leverage my hands-on skills in penetration testing, network monitoring, and security automation to detect and mitigate threats, while also enhancing system resilience through innovative IoT projects.
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+---
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+| Category                            | Tools & Technologies                                      |
+|-------------------------------------------|-----------------------------------------------------------|
+| Penetration Testing & Exploitation Tools | Metasploit Framework, Hydra, John the Ripper             |
+| Scanning & Enumeration Tools             | Nmap, Nessus, Nikto                                      |
+| Network Analysis & Forensics             | Wireshark, Netcat                                        |
+| Operating Systems & Environments         | Kali Linux, Parrot OS, VMware, VirtualBox                |
+| Scripting & Automation                   | Python (automation scripts, exploit development)         |
+| Networking Concepts                      | TCP/IP, VPNs, Firewalls, IDS/IPS, Routing & Switching... |
+| Ethical Hacking Techniques               | Reconnaissance, Enumeration, Vulnerability Assessment... |
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
-## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+---
 
-### Network
+## Expertise in Leading Cybersecurity Tools
+
+
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nessus-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Netcat-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Metasploit Framework-005571?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Hydra-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+    <img src="https://img.shields.io/badge/-John the Ripper-FF0000?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nmap-006400?&style=for-the-badge&logoColor=white" />
 </div>
 
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
 
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
+---
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-CCNA-FF0000?&style=for-the-badge&logoColor=white" />
+    
 </div>
 
+---
+
 ## Projects
-- Detection Lab
-- SOC Automation Proje
+- [Detection Lab](https://github.com/clong/DetectionLab)  
+- [SOC Automation Project](https://github.com/yourusername/SOCLab)  
+- [IoT-Based Car Parking System](https://github.com/yourusername/IoT-Car-Parking)  
+- [Recon Automation Scripts](https://github.com/yourusername/Recon) 
